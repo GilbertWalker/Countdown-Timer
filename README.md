@@ -9,3 +9,15 @@ This is a vanilla JS project i.e. you only need to code in JS to solve this prob
 The HTML & CSS components should not be changed.
 
 Download the assets.zip file for the starter files for this project from the downloads section of the page.
+
+#### Each Menber Takes Up a Button and Work on it
+Guys we may have to decide and divied the buttons and each memebr works on one button
+
+
+
+### NAMES OF MEMBERS
+1. Gilbert Ofori-Boye   
+2. 
+3.
+4.
+5. 
