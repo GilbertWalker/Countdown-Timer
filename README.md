@@ -1,3 +1,4 @@
+
 # Countdown-Timer
 Our first challenge, a countdown timer coding project.   This is a  vanilla JavaScript challenge that focuses on testing your ability to work with the DOM model.
 
@@ -18,6 +19,6 @@ Guys we may have to decide and divied the buttons and each memebr works on one b
 ### NAMES OF MEMBERS
 1. Gilbert Ofori-Boye   
 2. Justice Kofi Anan Kumah 
-3.
+3. Philip Essel
 4.
 5. 
