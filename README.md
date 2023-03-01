@@ -17,7 +17,7 @@ Guys we may have to decide and divied the buttons and each memebr works on one b
 
 ### NAMES OF MEMBERS
 1. Gilbert Ofori-Boye   
-2. 
+2. Justice Kofi Anan Kumah 
 3.
 4.
 5. 
