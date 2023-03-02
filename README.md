@@ -16,8 +16,9 @@ Guys we may have to decide and divied the buttons and each memebr works on one b
 
 
 ### NAMES OF MEMBERS
-1. Gilbert Ofori-Boye   
-2. 
+
+1.Gilbert Ofori-Boye  ----------   working on the 20secs Button
+2.
 3.
 4.
-5. 
+5.
