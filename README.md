@@ -17,8 +17,17 @@ Guys we may have to decide and divied the buttons and each memebr works on one b
 
 
 ### NAMES OF MEMBERS
-1. Gilbert Ofori-Boye   
-2. 
+<<<<<<< HEAD
+
+1.Gilbert Ofori-Boye  ----------   working on the 20secs Button
+2.
 3.
 4.
+5.
+=======
+1. Gilbert Ofori-Boye   
+2. Justice Kofi Anan Kumah 
+3. Philip Essel
+4.
 5. 
+>>>>>>> 6f9e139a7a12f9b02df8bd4c6489eb974baa3d0c
