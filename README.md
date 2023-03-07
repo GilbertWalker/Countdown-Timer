@@ -19,5 +19,5 @@ Guys we may have to decide and divied the buttons and each memebr works on one b
 1. Gilbert Ofori-Boye
 2. Justice Kofi Anan Kumah
 3. Philip Essel
-4.
-5.
+4. Dennis Murithi
+5. Devin Makhulo
